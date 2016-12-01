@@ -14,3 +14,18 @@ Contents:
 Table of Contents
 =================
 
+.. toctree::
+   :maxdepth: 1
+   alphabet.rst
+   common_words.rst
+   conversation.rst
+   cuklture.rst
+   directions.rst
+   french_speaking_countries.rst
+   index.rst
+   introductory_phrases.rst
+   numbers.rst
+   placesToVisit.rst
+   traveling_tips.rst
+   words_for_locations.rst
+   
