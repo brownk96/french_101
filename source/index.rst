@@ -14,13 +14,13 @@ Contents:
    alphabet.rst
    common_words.rst
    conversation.rst
-   cuklture.rst
+   culture.rst
    directions.rst
    french_speaking_countries.rst
    index.rst
    introductory_phrases.rst
    numbers.rst
-   placesToVisit.rst
+   placeToVisit.rst
    traveling_tips.rst
    words_for_locations.rst
    
