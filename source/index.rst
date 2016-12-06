@@ -10,12 +10,6 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
-
-Table of Contents
-=================
-
-.. toctree::
-   :maxdepth: 1
    alphabet.rst
    common_words.rst
    conversation.rst
@@ -28,4 +22,11 @@ Table of Contents
    placesToVisit.rst
    traveling_tips.rst
    words_for_locations.rst
+
+Table of Contents
+=================
+
+.. toctree::
+   :maxdepth: 1
+   
    
