@@ -9,13 +9,8 @@ Welcome to French 101's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
-
-Table of Contents
-=================
-
-.. toctree::
-   :maxdepth: 1
+   :maxdepth: 1 
+   
    alphabet.rst
    common_words.rst
    conversation.rst
