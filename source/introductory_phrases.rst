@@ -1,7 +1,7 @@
 Introductory Phrases
 ======================
 
-.. image:: Logo-Bonjour.png
+.. image:: images/Logo-Bonjour.png
 
 Welcome to our introductory phrases guide! Beginning to learn a new language starts 
 with the basics. These phrases are intended to help you start a conversation and 
