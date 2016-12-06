@@ -10,8 +10,8 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
-   alphabet.rst
-   common_words.rst
+   alphabet
+   common_words
    conversation.rst
    cuklture.rst
    directions.rst
