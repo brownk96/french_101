@@ -1,4 +1,4 @@
-Countries that speak French
+Countries That Speak French
 ============================
 
 As of 2015, there are twenty nine countries that have French as an official language. Of these twenty nine, 
