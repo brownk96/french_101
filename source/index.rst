@@ -9,7 +9,7 @@ Welcome to French 101's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1 
    
    alphabet.rst
    common_words.rst
@@ -23,11 +23,4 @@ Contents:
    placesToVisit.rst
    traveling_tips.rst
    words_for_locations.rst
-
-Table of Contents
-=================
-
-.. toctree::
-   :maxdepth: 1
-   
    
