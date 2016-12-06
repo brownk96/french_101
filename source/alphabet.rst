@@ -1,6 +1,6 @@
 The Alphabet - L’Alphabet
 =========================
-
+The French language uses a twenty six letter alphabet.
 +------------+-----------+-------------------+
 | **Letter** |  **Name** | **Pronunciation** |
 +------------+-----------+-------------------+
