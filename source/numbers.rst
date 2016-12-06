@@ -31,3 +31,9 @@ The first ten numbers in French are:
 +------------------+----------------+---------+
 | Ten              | dix            |  10     |
 +------------------+----------------+---------+
+
+
+
+
+
+For audio pronunciation of these numbers and more: `Quizlet <https://quizlet.com/996950/french-numbers-1-100-flash-cards/>`_
