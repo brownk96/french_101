@@ -60,6 +60,7 @@ but they have a different pronunciation.
 |   Z        |    Zéde   |        zed        |
 +------------+-----------+-------------------+
 
+
 In the French language, there are five different accents. They are not different letters, but may change the sound of the letter they are on. 
 
 * **The Aigu Accent ( ´ )** = This marking only appears on an *e*, and makes the *ay* sound
