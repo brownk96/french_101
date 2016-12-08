@@ -12,7 +12,7 @@ The top Three Places to Visit:
   the third level, which can be accessed either by stairs or elevator. 
   
 .. figure:: eiffel.JPG
- :scale: 50 %
+ :scale: 10 %
  :alt: Eiffel Tower, by Kyann Brown
 
 * The Arc de Triomphe, Paris - The Arc de Triomphe, at almost 200 years old, was 
@@ -22,7 +22,7 @@ The top Three Places to Visit:
   this November.
   
 .. figure:: arc_de_triomphe.JPG
- :scale: 50 %
+ :scale: 10 %
  :alt: Arc de Triomphe, by Kyann Brown
 
 * The Louvre, Paris - The Louvre is the world's largest museum and is located in 
@@ -31,19 +31,19 @@ The top Three Places to Visit:
   the People* painting. 
   
 .. figure:: louve.JPG
- :scale: 50 %
+ :scale: 10 %
  :alt: Louvre, by Kyann Brown
    
 .. figure:: Mona_Lisa.JPG
- :scale: 25 %
+ :scale: 10 %
  :alt: Mona Lisa, by Kyann Brown
    
 .. figure:: venus_de_Milo.JPG
- :scale: 25 %
+ :scale: 10 %
  :alt: Venus de Milo, by Kyann Brown
    
 .. figure:: sphinx.JPG
- :scale: 25 %
+ :scale: 10 %
  :alt: Great Sphinx of Tanis, by Kyann Brown
 
 * The Pont Saint-Bénézet, Avigon - Also known as the Pont d'Avignon, it is almost
@@ -52,7 +52,7 @@ The top Three Places to Visit:
   considered a landmark of Avigon.
   
 .. figure:: bridge.jpg
- :scale: 50 %
+ :scale: 10 %
  :alt: Pont d'Avignon
    
 
