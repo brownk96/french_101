@@ -1,7 +1,7 @@
 Directions and Advice
 =====================
 
-The four basic cardinal directions are:
+**The four basic cardinal directions are:**
 
 +---------------+--------------+-------------+
 |               | to the North |             |
@@ -17,7 +17,7 @@ The four basic cardinal directions are:
 |               | au sud       |             |
 +---------------+--------------+-------------+
 
-
+**Other commonly used directions:**
 
 +---------------+--------------+--------------+
 | À gauche      |  Tout droit  |    À droite  |
