@@ -1,7 +1,7 @@
 Directions and Advice
 =====================
 
-The four basic cardinal directions are:
+**The four basic cardinal directions are:**
 
 +---------------+--------------+-------------+
 |               | to the North |             |
@@ -17,12 +17,14 @@ The four basic cardinal directions are:
 |               | au sud       |             |
 +---------------+--------------+-------------+
 
+**Other commonly used directions:**
 
 +---------------+--------------+--------------+
 | À gauche      |  Tout droit  |    À droite  |
 +---------------+--------------+--------------+
 | to the Left   |   Straight   | to the Right |
 +---------------+--------------+--------------+
+
 
 Direction Questions
 -------------------
@@ -62,6 +64,6 @@ you might be looking for.
 * *un taxi*   A taxi 
 
 You'll want to be able to recognize these words on any signs you may come across:
+
 * **Arrêtez**   Stop!
 * **Attention**   Warning!
-
