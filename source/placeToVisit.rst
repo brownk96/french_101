@@ -51,7 +51,7 @@ The top Three Places to Visit:
   The bridge was used as inspiration for the *Sur le pont d'Avignon* song, and is also 
   considered a landmark of Avigon.
   
-.. figure:: pont d'avignon(1).jpg
+.. figure:: bridge.jpg
  :scale: 50 %
  :alt: Pont d'Avignon
    
