@@ -79,7 +79,7 @@ happening. No worries. Be in the know with this phrase.
 
 I come from...
 
-*J’habite à...*
+*J'habite à...*
 
 I live in... 
 
