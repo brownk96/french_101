@@ -4,7 +4,7 @@ Words to Know For Specific Locations
 When traveling, you may want to know words related to the location you are in. Places such as museums, restaurants, 
 or airports all have words specific to them that you’ll want to learn in order to navigate the location successfully. 
 There are many more to learn, but here are a few to get you started. To learn more French, please check out our other 
-pages such as `Common Words <common_words.rst_>`or `Introductory Phrases <introductory_phrases.rst_>`.
+pages such as `Common Words <common_words.rst>`_ or `Introductory Phrases <introductory_phrases.rst>`_.
 The italics words are in French.
 
 
