@@ -2,6 +2,7 @@ Places to Visit in France
 =========================
 
 There are several places that you will want to visit when or if you go to France. 
+---------------------------------------------------------------------------------
 
 The top Three Places to Visit:
 
