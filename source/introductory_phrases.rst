@@ -1,3 +1,5 @@
+charset_type = utf8
+
 Introductory Phrases
 ======================
 
