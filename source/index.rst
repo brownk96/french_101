@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to French 101's documentation!
-======================================
+Welcome to French 101's documentation! 
+====================================== 
 
 Contents:
 
@@ -13,11 +13,10 @@ Contents:
    
    alphabet.rst
    common_words.rst
-   conversation.rst
+   conversation_questions.rst
    culture.rst
    directions.rst
    french_speaking_countries.rst
-   index.rst
    introductory_phrases.rst
    numbers.rst
    placeToVisit.rst

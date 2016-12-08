@@ -2,9 +2,9 @@ Places to Visit in France
 =========================
 
 There are several places that you will want to visit when or if you go to France. 
----------------------------------------------------------------------------------
 
 The top Three Places to Visit:
+------------------------------
 
 * The Eiffel Tower, Paris - The Eiffel Tower, built in 1887 - 1889 by Gustave Eiffel,
   is one of the most well known monuement in France. The tallest structure in Paris, 
