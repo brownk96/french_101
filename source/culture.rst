@@ -45,6 +45,8 @@ Here are some popular foods that come from France:
 -- èclair
 -- crème brûlée
 -- quiche 
+-- blanquette de veau
+-- soupe à l’oignon
 
 
 
