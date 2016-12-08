@@ -16,7 +16,7 @@ Hello
 
 This phrase, when translated literally, means "good day." It is a formal salutation 
 used among strangers and acquaintances. It's also a more respectful way of saying 
-hello. For less formal greetings, you can use "salut" or "ça va." 
+hello. For less formal greetings, you can use "salut" or "Ã§a va." 
 
 *Comment vous appelez-vous?*
 
@@ -26,7 +26,7 @@ The best way to ask someone his/her name is to use this phrase. It literally mea
 "What do you call yourself?" Whomever you are speaking to will likely ask you the 
 same question, so be prepared. Respond with "Je m'appelle '___.' 
 
-*J'apprends le français mais je ne suis qu'un débutant.*
+*J'apprends le franÃ§ais mais je ne suis qu'un dÃ©butant.*
 
 I'm learning French, but I'm only a beginner. 
 
@@ -40,7 +40,7 @@ I don't understand.
 Admit it. You don't know it all -- especially when you're just starting out. When 
 learning French, it's easier to read than to hear the language being spoken. If 
 you don't understand something, simply ask for the speaker to repeat him/herself 
-by saying, "Pouvez-vous répéter s'il vous plaît ?"
+by saying, "Pouvez-vous rÃ©pÃ©ter s'il vous plaÃ®t ?"
 
 *Est-ce que tu me comprends?*
 
@@ -50,9 +50,9 @@ Conversely, you are likely not to understand what the French native is saying be
 they are 1. speaking too fast or 2. using slang you might not be familiar with.  
 
 
-*Comment dit-on '___' en français ?*
+*Comment dit-on '___' en franÃ§ais ?*
 
-How do you say '___' in French?	
+How do you say '___' in French? 
 
 Because English is so prevalent in Europe, there's a considerable chance the person 
 you are speaking to knows what you are trying to say. Or, if you're with a French 
@@ -79,13 +79,6 @@ happening. No worries. Be in the know with this phrase.
 
 I come from...
 
-*J'habite à...*
+*J'habite Ã ...*
 
 I live in... 
-
-
-
-
-
-
- 
