@@ -1,7 +1,9 @@
 Traveling Tips
 ==============
 
-Traveling can be intimidating, especially if it’s to a new country and one that speaks a language you do not. Below are some tips on how to go about your trip to guide you, keep you aware of some things, and help you have the best time possible.
+Traveling can be intimidating, especially if it’s to a new country and one that speaks a language you do not. 
+Below are some tips on how to go about your trip, guide you, keep you aware, and help you have the best time possible.
+
 Some of these are broad travel recommendations, while others are specific to taking a trip to France.
 
 1. Keep extra cash on you, hidden, in case of any sort of emergency.
@@ -13,4 +15,4 @@ Some of these are broad travel recommendations, while others are specific to tak
 7. Walk between places and be open to diversions.
 8. In France, to call for an emergency, call 112 (the European equivalent to 911). Or call 15 for an ambulance and medical help, and 17 for police.
 9. Be aware that in Europe, dates are written Day/Month/Year, and they use a twenty four hour clock.
-10. Be careful of what you use free, public wifi for.
+10. Be careful of what you use free, public WiFi for.
