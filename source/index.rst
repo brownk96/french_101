@@ -17,7 +17,6 @@ Contents:
    culture.rst
    directions.rst
    french_speaking_countries.rst
-   index.rst
    introductory_phrases.rst
    numbers.rst
    placeToVisit.rst
