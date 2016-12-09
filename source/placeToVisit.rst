@@ -3,7 +3,7 @@ Places to Visit in France
 
 There are several places that you will want to visit when or if you go to France. 
 
-The top Three Places to Visit:
+The top Four Places to Visit:
 ------------------------------
 
 * The Eiffel Tower, Paris - The Eiffel Tower, built in 1887 - 1889 by Gustave Eiffel,
@@ -12,7 +12,7 @@ The top Three Places to Visit:
   the third level, which can be accessed either by stairs or elevator. 
   
 .. figure:: eiffel.JPG
- :scale: 10%
+ :scale: 100%
  :alt: Eiffel Tower, by Kyann Brown
 
 * The Arc de Triomphe, Paris - The Arc de Triomphe, at almost 200 years old, was 
@@ -22,7 +22,7 @@ The top Three Places to Visit:
   this November.
   
 .. figure:: arc_de_triomphe.JPG
- :scale: 10%
+ :scale: 100%
  :alt: Arc de Triomphe, by Kyann Brown
 
 * The Louvre, Paris - The Louvre is the world's largest museum and is located in 
@@ -31,19 +31,19 @@ The top Three Places to Visit:
   the People* painting. 
   
 .. figure:: louve.JPG
- :scale: 10%
+ :scale: 100%
  :alt: Louvre, by Kyann Brown
    
 .. figure:: Mona_Lisa.JPG
- :scale: 10%
+ :scale: 100%
  :alt: Mona Lisa, by Kyann Brown
    
 .. figure:: venus_de_Milo.JPG
- :scale: 10%
+ :scale: 100%
  :alt: Venus de Milo, by Kyann Brown
    
 .. figure:: sphinx.JPG
- :scale: 10%
+ :scale: 100%
  :alt: Great Sphinx of Tanis, by Kyann Brown
 
 * The Pont Saint-Bénézet, Avigon - Also known as the Pont d'Avignon, it is almost
@@ -52,7 +52,7 @@ The top Three Places to Visit:
   considered a landmark of Avigon.
   
 .. figure:: bridge.jpg
- :scale: 10%
+ :scale: 100%
  :alt: Pont d'Avignon
    
 
