@@ -7,7 +7,7 @@ There are many more to learn, but here are a few to get you started. To learn mo
 pages such as `Common Words <common_words.html>`_ or `Introductory Phrases <introductory_phrases.html>`_.
 The italics words are in French.
 
-.. image:: museum.jpg
+.. image:: bonjour.jpg
 
 Museum - *Musée*
 -----------------
