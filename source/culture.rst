@@ -36,6 +36,8 @@ Food
 .. figure:: crepe.JPG
  :scale: 100%
  :alt: Crepe, by Kyann Brown
+ 
+ Crepe by Kyann Brown
 
 French cuisine is the country's staple, and it's become a world treasure. The French
 pride themselves in their food as it remains a prevalent part of their identity. 

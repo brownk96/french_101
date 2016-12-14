@@ -1,7 +1,7 @@
 ﻿The Alphabet - L’Alphabet
 =========================
 
-The French alphabet consists of twenty-six letters. The letters are the same as they are in English, 
+The French alphabet consists of 26 letters. The letters are the same as they are in English, 
 but they have a different pronunciation.
 
 +------------+-----------+-------------------+
@@ -62,11 +62,11 @@ but they have a different pronunciation.
 
 Accents
 --------
-In the French language, there are five different accents. They are not different letters, but may change the sound of the letter they are on. 
+In the French language, there are five different accents. They are not different letters but could change the sound of the letter they are on. 
 
 * **The Aigu Accent ( ´ )** = This marking only appears on an *e*, and makes the *ay* sound
-* **The Grave Accent ( ` )** = This mark can appear over any vowel, but only alters the pronunciation of *e*.
-* **The Circonflexe Accent ( ̂ )** = This accent does not change the sound of any letters, but still must be included in writings.
+* **The Grave Accent ( ` )** = This mark can appear over any vowel but only alters the pronunciation of *e*.
+* **The Circonflexe Accent ( ̂ )** = This accent does not change the sound of any letters but still must be included in writings.
 * **The Cedilla (ç)** = This accent is the little tail on the *c*, and only appears on this letter. It makes an *s* sound.
 * **The Tréma** = This mark is two little dots over the top of a vowel. When two vowels are put back to back, the Tréma means the second one should be pronounced separately.
 
