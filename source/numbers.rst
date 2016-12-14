@@ -69,7 +69,7 @@ Some strange numbers to be aware of for this pattern are 70, which is 60 and 10,
 +---------------------+-------------------+---------+
 | Thirty              | trente            | 30      |
 +---------------------+-------------------+---------+
-| Fourty              | quarante          | 40      |
+| Forty               | quarante          | 40      |
 +---------------------+-------------------+---------+
 | Fifty               | cinquante         | 50      |
 +---------------------+-------------------+---------+
@@ -79,7 +79,7 @@ Some strange numbers to be aware of for this pattern are 70, which is 60 and 10,
 +---------------------+-------------------+---------+
 | Eighty              | quatre-vingts     | 80      |
 +---------------------+-------------------+---------+
-| Ninty               | quatre-vingt-dix  | 90      |
+| Ninety              | quatre-vingt-dix  | 90      |
 +---------------------+-------------------+---------+
 | One hundred         | cent              | 100     |
 +---------------------+-------------------+---------+
@@ -87,8 +87,24 @@ Some strange numbers to be aware of for this pattern are 70, which is 60 and 10,
 +---------------------+-------------------+---------+
 | Two hundred         | deux cents        | 200     |
 +---------------------+-------------------+---------+
-| One thousand        | mille             |  1001   |
+| One thousand        | mille             |  1000   |
 +---------------------+-------------------+---------+
+
+Most numbers become combinations of previous numbers that make sense when you see
+them. For example, 21 is *vingt et un* (twenty and one) and 31 is *trente et un* 
+(thirty and one). 
+
+There are some interesting phrasings in the French numbers, specifically 
+70, 80, and 90. 70 is *soixante-dix*, which translates to **sixty-ten**. 80 is 
+*quatre-vingts*, which is **four-twenties** and 90 is *quatre-vingt-dix*, or 
+**four-twenties-ten**.  
+
+However, the good new is that once you know these, the numbers above follow the 
+standard number names - for example, 81 is *quatre-vingts un* (eighty one). For 
+70 and 90, instead of 10, use the -teen number that would be appropriate, ie. 92 
+is *quatre-vingt-douze*, or **four-twenty twelve** or **eighty twelve**. 
+
+
 
 
 
