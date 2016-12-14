@@ -6,8 +6,8 @@ Below are some tips on how to go about your trip, guide you, keep you aware, and
 
 Some of these are broad travel recommendations, while others are specific to taking a trip to France.
 
-Ten things to keep in mind while traveling
-------------------------------------------
+10 things to keep in mind while traveling
+-----------------------------------------
 1. Keep extra cash on you, hidden, in case of any sort of emergency.
 2. Distribute the money you do have between different spots and pockets.
 3. If you are bringing a laptop, smartphone, or other electronic device, backup the files.
@@ -16,5 +16,5 @@ Ten things to keep in mind while traveling
 6. Get travel insurance, as eventually (especially if you are doing a lot of traveling) something bad will happen.
 7. Walk between places and be open to diversions.
 8. In France, to call for an emergency, call 112 (the European equivalent to 911). Or call 15 for an ambulance and medical help, and 17 for police.
-9. Be aware that in Europe, dates are written Day/Month/Year, and they use a twenty-four-hour clock.
+9. Be aware that in Europe, dates are written Day/Month/Year, and they use a 24-hour clock.
 10. Be careful of what you use free, public Wi-Fi for.
