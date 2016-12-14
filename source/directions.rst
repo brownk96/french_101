@@ -71,7 +71,7 @@ you might be looking for.
 * *la boîte de nuit* - the dance club
 * *le-centre ville* - downtown
 * *la bibliothèque* - the library
-* *la pharmacie* - the pharmacie 
+* *la pharmacie* - the pharmacy 
 * *le centre commercial* - the mall (shopping center) 
 
 

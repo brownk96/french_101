@@ -69,7 +69,7 @@ Some strange numbers to be aware of for this pattern are 70, which is 60 and 10,
 +---------------------+-------------------+---------+
 | Thirty              | trente            | 30      |
 +---------------------+-------------------+---------+
-| Fourty              | quarante          | 40      |
+| Forty               | quarante          | 40      |
 +---------------------+-------------------+---------+
 | Fifty               | cinquante         | 50      |
 +---------------------+-------------------+---------+
@@ -79,7 +79,7 @@ Some strange numbers to be aware of for this pattern are 70, which is 60 and 10,
 +---------------------+-------------------+---------+
 | Eighty              | quatre-vingts     | 80      |
 +---------------------+-------------------+---------+
-| Ninty               | quatre-vingt-dix  | 90      |
+| Ninety              | quatre-vingt-dix  | 90      |
 +---------------------+-------------------+---------+
 | One hundred         | cent              | 100     |
 +---------------------+-------------------+---------+
