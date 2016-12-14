@@ -33,6 +33,8 @@ In America, stress is placed more on the social aspect nowadays.
 Food 
 ----
 
+.. image:: crepe.jpg
+
 French cuisine is the country's staple, and it's become a world treasure. The French
 pride themselves in their food as it remains a prevalent part of their identity. 
 
@@ -47,6 +49,7 @@ Here are some popular foods that come from France:
 -- quiche 
 -- blanquette de veau
 -- soupe à l’oignon
-
+-- soupe de Poisson à la rouille
+-- bœuf bourguignon
 
 
