@@ -87,7 +87,7 @@ Some strange numbers to be aware of for this pattern are 70, which is 60 and 10,
 +---------------------+-------------------+---------+
 | Two hundred         | deux cents        | 200     |
 +---------------------+-------------------+---------+
-| One thousand        | mille             |  1001   |
+| One thousand        | mille             |  1000   |
 +---------------------+-------------------+---------+
 
 Most numbers become combinations of previous numbers that make sense when you see
