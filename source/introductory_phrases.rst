@@ -8,6 +8,9 @@ with the basics. These phrases are intended to help you start a conversation and
 break the ice should you find yourself in a foreign country that speaks French. 
 Any comments or questions? Let us know. 
 
+Get Started
+-----------
+
 Don't be a stranger. Say hello! 
 
 *Bonjour*
