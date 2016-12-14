@@ -14,6 +14,8 @@ The top Four Places to Visit:
 .. figure:: eiffel.JPG
  :scale: 100%
  :alt: Eiffel Tower, by Kyann Brown
+ 
+ Eiffel Tower, by Kyann Brown
 
 * The Arc de Triomphe, Paris - The Arc de Triomphe, at almost 200 years old, was 
   built to honor the soldiers who fought for France, especially those that fought 
