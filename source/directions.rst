@@ -34,11 +34,11 @@ There are many times that you may need to ask for directions. Some phrases that 
 
 * 	*Excusez-moi* 
 	
-	Excuse Me
+	 Excuse Me
 	
 *   *s’il vous plaît*
     
-	please
+	Please
 	
 *   *Où est ____ ?* or *Où se trouve ______ ?*
 	
