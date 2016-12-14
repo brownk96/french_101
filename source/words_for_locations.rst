@@ -1,4 +1,4 @@
-﻿Words to Know For Specific Locations
+﻿Words to Know for Specific Locations
 ====================================
 
 When traveling, you may want to know words related to the location you are in. Places such as museums, restaurants, 
