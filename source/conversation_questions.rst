@@ -54,7 +54,3 @@ Need more help? Don't hesitate to visit our other pages:
 * Pro tip: Don't rely on Google translate. It's usually inaccurate, and French people
 will have no idea what you're trying to say if you translate word for word. Once you 
 get a better understanding of the French language, you'll understand why! 
-
-
-
-
