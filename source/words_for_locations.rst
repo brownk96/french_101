@@ -10,6 +10,8 @@ The italics words are in French.
 .. figure:: museum.JPG
  :scale: 100%
  :alt: A Museum, by Kyann Brown
+ 
+ A Museum, by Kyann Brown
 
 Museum - *Musée*
 -----------------
