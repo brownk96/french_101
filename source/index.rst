@@ -27,7 +27,7 @@ Welcome to French 101, the site that will give you a quick introdution to the
 French language, as well as culture and travel advice! 
 
 For those new to this site, or to the French language in general, the best pages 
-to start on would be the **Alphabet** page and the **Number** pages. These pages 
+to start on would be the `**Alphabet** <alphabet.html>`_ page and the **Number** pages. These pages 
 help with the basics sounds of the French language, and basic and more complex numbers.  
 
 For those who already 
