@@ -64,12 +64,17 @@ you might be looking for.
 * *le théâtre* - a theater
 * *L’hôpital* - the hospital
 * *le commissariat* - a police station
+* *le W.C.* - the bathroom
+* *rue* - Street
+* *la carte* - The map
+* *un taxi* - A taxi 
+* *la boîte de nuit* - the dance club
+* *le-centre ville* - downtown
+* *la bibliothèque* - the library
+* *la pharmacie* - the pharmacie 
+* *le centre commercial* - the mall (shopping center) 
 
 
-* *le W.C.*   the bathroom
-* *rue*   Street
-* *la carte*   The map
-* *un taxi*   A taxi 
 
 You'll want to be able to recognize these words on any signs you may come across:
 
