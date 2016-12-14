@@ -68,6 +68,3 @@ The top Four Places to Visit:
  :alt: Pont d'Avignon
  
  Pont d'Avignon by Alex Kirkpatrick 
-   
-
-.. image:: cat.jpg
