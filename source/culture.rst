@@ -33,7 +33,7 @@ In America, stress is placed more on the social aspect nowadays.
 Food 
 ----
 
-.. image:: crepe.jpg
+.. image:: crepe.JPG
 
 French cuisine is the country's staple, and it's become a world treasure. The French
 pride themselves in their food as it remains a prevalent part of their identity. 
