@@ -23,7 +23,7 @@ Contents:
    traveling_tips.rst
    words_for_locations.rst
    
-Welcome to French 101, the site that will give you a quick introdution to the 
+Welcome to French 101, the site that will give you a quick introduction to the 
 French language, as well as culture and travel advice! 
 
 For those new to this site, or to the French language in general, the best pages 

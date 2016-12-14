@@ -1,10 +1,12 @@
 Countries That Speak French
 ============================
 
-As of 2015, there are twenty nine countries that have French as an official language. Of these twenty nine, 
+There are currently twenty-nine countries that have French as an official language. Of these twenty-nine, 
 there are sixteen were it is a co-official language, meaning it exists as the official language alongside another. 
 The other thirteen have French set as their only official language.
 
+Countries
+---------
 * **Belgium** - Also has Dutch and German as official languages
 * **Benin**
 * **Burkina Faso**
